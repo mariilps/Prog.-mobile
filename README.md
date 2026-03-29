@@ -15,4 +15,4 @@ Objetivo profissional: neuropsicologia
 - PHP
 - GitHub
 
-![Imagem](![tyler](https://github.com/user-attachments/assets/28e7f9a1-7b83-4901-bb5f-45105cc4c3cb)
+
